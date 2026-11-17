@@ -1,0 +1,10 @@
+# Arquivos gerados pelo Python
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais e arquivos de editor
+.venv/
+venv/
+.vscode/
+.idea/
+.DS_Store
